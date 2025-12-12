@@ -32,14 +32,14 @@ This project demonstrates:
 
 amazon-clone/
 │
-├── README.md # Project documentation
-├── index.html # Main landing page
-├── style.css # Stylesheet for the UI
+├── README.md 
+├── index.html
+├── style.css 
 │
-├── amazon_logo.png # Header logo
+├── amazon_logo.png 
 ├── hero.jpg # Hero banner image
 │
-├── box1_image.jpg # Product box images
+├── box1_image.jpg 
 ├── box2_image.jpg
 ├── box3_image.jpg
 ├── box4_image.jpg

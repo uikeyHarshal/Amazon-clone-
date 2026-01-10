@@ -29,7 +29,7 @@ This project demonstrates:
 ---
 
 ## folder Structure
-
+```
 amazon-clone/
 │
 ├── README.md 
@@ -47,7 +47,7 @@ amazon-clone/
 ├── box6_image.jpg
 ├── box7_image.jpg
 └── box8_image.jpg
-
+```
 
 
 ## 🧑‍💻 Author
